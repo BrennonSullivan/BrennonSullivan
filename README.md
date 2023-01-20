@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BrennonSullivan
+- I am a Sam Houston State University graduate. I specialize in code analysis and malware analytics
 
 
 <!---
